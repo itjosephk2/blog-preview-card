@@ -2,6 +2,8 @@
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
+Find solution [here](https://itjosephk2.github.io/blog-preview-card/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
